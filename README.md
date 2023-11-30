@@ -26,7 +26,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b985b2822d89b4b05dddd526c61852d2d91b24d5103168503348afe206769311/68747470733a2f2f7777772e726c6f676963616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f526c6f676963616c2d426c6f672d496d616765732d7468756d626e61696c2e706e67" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mcmxcdev/pnpm.github.io/db169eba20b23a10cedea889e0c87d6b77ddc978/static/img/users/sveltekit.svg alt="react" width="40" height="40"/> </a> 
+  
 
 </p>
 <br/>
