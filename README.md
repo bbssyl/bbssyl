@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Turkcell](https://www.turkcell.com.tr) Group Company [Atmosware](https://atmosware.com.tr)
 - 🌱 I’m currently learning Svelte
-- 💬 Ask me about **JavaScript, React, Redux, Nextjs**
+- 💬 Ask me about **JavaScript**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbssyl&label=Profile%20views&color=0e75b6&style=flat" alt="bbssyl" /> </p>
 
 <h3 align="left">Connect with me:</h3>
