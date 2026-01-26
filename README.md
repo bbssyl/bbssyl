@@ -1,35 +1,59 @@
-<h3 align="center">A front-end developer and open source code lover from Çanakkale.</h3>
-
-- 🔭 I’m currently working at [Turkcell](https://www.turkcell.com.tr) Group Company [Atmosware](https://atmosware.com.tr)
-- 🌱 I’m currently learning Svelte
-- 💬 Ask me about **Software Development**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bbssyl&label=Profile%20views&color=0e75b6&style=flat" alt="bbssyl" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/barış-benli-80230a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/barış-benli-80230a259" height="30" width="40" /></a>
-<a href="https://instagram.com/brs.bnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brs.bnl" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="svelte" width="40" height="40"/> </a> 
-  <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/mcmxcdev/pnpm.github.io/blob/db169eba20b23a10cedea889e0c87d6b77ddc978/static/img/users/sveltekit.svg" alt="sveltekit" width="100" height="40"/> </a> 
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
+<div align="center">
+  <h1 align="center">Hi there, I'm Barış 👋</h1>
   
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Senior+Frontend+Developer;Open+Source+Contributor;Rust%26System+Architecture+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <h3> 🚀 Building Scalable Architectures & Mentoring the Next Gen</h3>
+</div>
+
+I'm a **Senior Frontend Developer** based in **Çanakkale, Turkey**, specializing in building high-traffic e-commerce platforms and modern web architectures. Currently, I'm working as a developer at **[Atmosware (Turkcell Group)](https://atmosware.com.tr)**.
+
+- 🔭 I’m currently working on **Turkcell Pasaj** migration & **Chartoon** (Open Source Library).
+- 🤝 I mentor at **Turkcell Bootcamps**, helping junior developers level up.
+- 🌱 I’m currently expanding my skill set with **Rust**, **WebAssembly**, and **gRPC**.
+- 💡 I specialize in **React Ecosystem, Performance Optimization, and Large Scale Apps**.
+
+<br/>
+
+<h3 align="center">🛠 Languages and Tools</h3>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,sass,bootstrap,figma&perline=11" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,nodejs,rust,linux,docker&perline=9" />
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbssyl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats-graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbssyl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages-graph" />
+</div>
+
+<br/>
+
+<h3 align="center">📫 Connect with me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bbssyl">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/brs.bnl">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bbssyl&label=Profile%20Views&color=blue&style=flat-square" alt="bbssyl" />
 </p>
 
