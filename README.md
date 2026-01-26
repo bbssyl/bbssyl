@@ -1,4 +1,4 @@
-<h3 align="center">A front-end developer and open source code lover from İzmir.</h3>
+<h3 align="center">A front-end developer and open source code lover from Çanakkale.</h3>
 
 - 🔭 I’m currently working at [Turkcell](https://www.turkcell.com.tr) Group Company [Atmosware](https://atmosware.com.tr)
 - 🌱 I’m currently learning Svelte
