@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,sass,bootstrap,figma&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxt,svelte,sveltekit,redux,tailwind,sass,bootstrap,figma&perline=15" />
   <br/><br/>
 
   <img src="https://skillicons.dev/icons?i=git,github,webpack,vite,nodejs,rust,linux,docker&perline=10" />
