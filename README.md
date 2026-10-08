@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,sass,bootstrap,figma&perline=11" />
   <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,nodejs,rust,linux,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,zed,webpack,vite,nodejs,rust,linux,docker&perline=10" />
 
 </div>
 
