@@ -18,6 +18,20 @@
 
 <br/>
 
+<h3 align="center">🚀 Projects</h3>
+
+<div align="center">
+
+**[pisi-bump-bot](https://github.com/bbssyl/pisi-bump-bot)** — A bot that tracks upstream GitHub releases for Pisi Linux contrib packages and reports outdated ones. Runs only on GitHub Actions.
+
+**[omarchy-creality](https://github.com/bbssyl/omarchy-creality)** — Linux desktop plugin for Creality 3D printers: network auto-discovery, progress/temperature tracking, camera snapshot, pause/resume.
+
+**[omarchy-netwatch](https://github.com/bbssyl/omarchy-netwatch)** — Local network device scanner for a Linux desktop bar that alerts when a new device joins the network.
+
+</div>
+
+<br/>
+
 <h3 align="center">📫 Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/bbssyl">
