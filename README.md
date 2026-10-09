@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**[pisi-bump-bot](https://github.com/bbssyl/pisi-bump-bot)** — A bot that tracks upstream GitHub releases for Pisi Linux contrib packages and reports outdated ones. Runs only on GitHub Actions.
+**[pisi-bump-bot](https://github.com/bbssyl/pisi-bump-bot)** — Tracks upstream GitHub releases for Pisi Linux contrib packages: an automated report bot on GitHub Actions, plus a local TUI for packagers.
 
 **[omarchy-creality](https://github.com/bbssyl/omarchy-creality)** — Linux desktop plugin for Creality 3D printers: network auto-discovery, progress/temperature tracking, camera snapshot, pause/resume.
 
